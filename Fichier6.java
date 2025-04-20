@@ -1,0 +1,54 @@
+public class Fichier6 {
+    public void afficherPhrases() {
+        System.out.println("Ceci est la phrase numéro 1 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 2 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 3 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 4 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 5 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 6 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 7 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 8 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 9 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 10 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 11 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 12 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 13 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 14 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 15 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 16 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 17 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 18 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 19 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 20 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 21 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 22 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 23 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 24 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 25 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 26 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 27 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 28 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 29 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 30 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 31 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 32 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 33 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 34 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 35 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 36 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 37 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 38 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 39 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 40 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 41 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 42 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 43 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 44 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 45 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 46 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 47 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 48 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 49 de Fichier6.");
+        System.out.println("Ceci est la phrase numéro 50 de Fichier6.");
+    }
+}
