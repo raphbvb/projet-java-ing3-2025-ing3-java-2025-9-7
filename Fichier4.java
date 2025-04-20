@@ -1,0 +1,54 @@
+public class Fichier4 {
+    public void boucleMessages() {
+        for (int i = 0; i < 1; i++) System.out.println("Itération 1 - Message 1");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 2 - Message 2");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 3 - Message 3");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 4 - Message 4");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 5 - Message 5");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 6 - Message 6");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 7 - Message 7");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 8 - Message 8");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 9 - Message 9");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 10 - Message 10");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 11 - Message 11");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 12 - Message 12");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 13 - Message 13");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 14 - Message 14");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 15 - Message 15");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 16 - Message 16");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 17 - Message 17");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 18 - Message 18");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 19 - Message 19");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 20 - Message 20");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 21 - Message 21");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 22 - Message 22");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 23 - Message 23");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 24 - Message 24");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 25 - Message 25");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 26 - Message 26");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 27 - Message 27");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 28 - Message 28");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 29 - Message 29");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 30 - Message 30");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 31 - Message 31");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 32 - Message 32");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 33 - Message 33");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 34 - Message 34");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 35 - Message 35");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 36 - Message 36");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 37 - Message 37");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 38 - Message 38");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 39 - Message 39");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 40 - Message 40");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 41 - Message 41");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 42 - Message 42");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 43 - Message 43");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 44 - Message 44");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 45 - Message 45");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 46 - Message 46");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 47 - Message 47");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 48 - Message 48");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 49 - Message 49");
+        for (int i = 0; i < 1; i++) System.out.println("Itération 50 - Message 50");
+    }
+}
